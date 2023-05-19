@@ -2,7 +2,7 @@
 
 ## Description
 
-In this guide, you will find quick notes and tips to guide you through the Prework. These notes and tips are for the following:
+In this guide, you will find quick notes and tips to guide you through the Prework. These notes and tips are for the following :
 
 - HTML
 - CSS
